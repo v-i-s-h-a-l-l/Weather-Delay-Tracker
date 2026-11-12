@@ -1,0 +1,32 @@
+[
+  {
+    "order_id": "1001",
+    "customer": "Alice Smith",
+    "city": "New York",
+    "status": "Pending",
+    "weather": "Clouds (broken clouds)"
+  },
+  {
+    "order_id": "1002",
+    "customer": "Bob Jones",
+    "city": "Mumbai",
+    "status": "Delayed",
+    "weather": "Rain (heavy intensity rain)",
+    "apology_message": "Hi Bob, your order to Mumbai is delayed due to heavy rain. We appreciate your patience!"
+  },
+  {
+    "order_id": "1003",
+    "customer": "Charlie Green",
+    "city": "London",
+    "status": "Delayed",
+    "weather": "Snow (light snow)",
+    "apology_message": "Hi Charlie, your order to London is delayed due to light snow. We appreciate your patience!"
+  },
+  {
+    "order_id": "1004",
+    "customer": "InvalidCity123",
+    "city": "InvalidCity123",
+    "status": "Pending",
+    "weather_error": "city not found (404)"
+  }
+]
