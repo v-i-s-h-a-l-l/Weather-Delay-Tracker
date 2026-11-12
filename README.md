@@ -342,4 +342,7 @@ python -m pytest -v
 
 ## 🎥 Recording the Demo
 
-For instructions, script timing, and talking points for your 3-minute video presentation, refer to the step-by-step walkthrough in the project documentation.
+A full video walkthrough demonstrating parallel fetching, resilience handling with `InvalidCity123`, the test suite, and the generated apologies is available below:
+
+- 📺 **Watch Demo Video:** [Google Drive Demo Recording](https://drive.google.com/file/d/1aj2gRn1rWFIqdDuynw9lO2died_3p57P/view?usp=sharing)
+
